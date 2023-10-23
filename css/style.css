@@ -8,3 +8,9 @@ header {
     background-color: var(--brand-blue);
     color: white;
 }
+
+/* JUMBO */
+
+.jumbo {
+    background-color: var(--brand-green);
+}
