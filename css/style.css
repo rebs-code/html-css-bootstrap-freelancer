@@ -1,6 +1,36 @@
 @import "/css/variables.css";
 @import "/css/debug.css";
 
+/* BACKGROUND COLORS */
+
+.bg-red {
+    background-color: var(--brand-red);
+}
+
+.bg-aqua {
+    background-color: var(--brand-aqua);
+}
+
+.bg-black {
+    background-color: var(--brand-black);
+}
+
+.bg-pastel {
+    background-color: var(--brand-pastel-blue);
+}
+
+.bg-blue {
+    background-color: var(--blue);
+}
+
+.bg-beige {
+    background-color: var(--beige);
+}
+
+.bg-green {
+    background-color: var(--brand-green);
+}
+
 
 /* HEADER */
 
