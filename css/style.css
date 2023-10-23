@@ -1,1 +1,10 @@
 @import "/css/variables.css";
+@import "/css/debug.css";
+
+
+/* HEADER */
+
+header {
+    background-color: var(--brand-blue);
+    color: white;
+}
