@@ -39,3 +39,7 @@
 .bg-brand-light {
     background-color: #3a546d;
 }
+
+.ms-text-green {
+    color: var(--brand-green);
+}
