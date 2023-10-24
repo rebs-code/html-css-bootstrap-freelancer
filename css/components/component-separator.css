@@ -7,7 +7,7 @@
 
 .separator-content {
     font-size: 24px; /* Adjust the font size of the icon inside the separator */
-    color: white;
+    color: inherit;
     position: relative;
     margin: 0 10px;
 }
@@ -17,5 +17,5 @@
     content: "";
     width: 20%;
     height: 4px; /* Adjust the height of the separating lines */
-    background-color: white; /* Adjust the color as needed */
+    background-color: currentcolor; /* gets the color from the icon */
 }

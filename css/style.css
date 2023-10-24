@@ -19,3 +19,15 @@ header {
 .jumbo img {
     max-width: 230px;
 }
+
+.portfolio h2 {
+    color: var(--brand-blue);
+}
+
+.portfolio .separator-component, .portfolio .separator-component .separator-content {
+    color: var(--brand-blue);
+}
+
+.ms-text-brand-blue {
+    color: var(--brand-blue);
+}
