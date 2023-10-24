@@ -1,12 +1,12 @@
 @import "/css/_partials/variables.css";
 @import "/css/_partials/colors.css";
 @import "/css/debug.css";
+@import "./components/component-img.css";
 
 /* HEADER */
 
 header {
     background-color: var(--brand-blue);
-    color: white;
 }
 
 /* JUMBO */

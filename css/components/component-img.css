@@ -1,0 +1,9 @@
+.component-img {
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.component-img img {
+    max-width: 100%;
+    height: auto ;
+}
