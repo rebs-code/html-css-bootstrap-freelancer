@@ -2,6 +2,7 @@
 @import "/css/_partials/colors.css";
 @import "/css/debug.css";
 @import "./components/component-img.css";
+@import "./components/component-separator.css";
 
 /* HEADER */
 
@@ -13,4 +14,8 @@ header {
 
 .jumbo {
     background-color: var(--brand-green);
+}
+
+.jumbo img {
+    max-width: 230px;
 }
