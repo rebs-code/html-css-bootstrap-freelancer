@@ -1,17 +1,16 @@
 .separator-component {
     display: flex;
     align-items: center;
-    position: relative;
     justify-content: center;
 }
 
 .separator-content {
     font-size: 24px; /* Adjust the font size of the icon inside the separator */
     color: inherit;
-    position: relative;
     margin: 0 10px;
 }
 
+/* It is possible to give a max width to the pseudo elements so that they don't stretch beyond a certain point */
 .separator-component::before,
 .separator-component::after {
     content: "";

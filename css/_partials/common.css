@@ -1,0 +1,49 @@
+/* HEADER */
+
+header {
+    background-color: var(--brand-blue);
+}
+
+/* JUMBO */
+
+.jumbo {
+    background-color: var(--brand-green);
+}
+
+.jumbo img {
+    max-width: 230px;
+}
+
+.portfolio h2 {
+    color: var(--brand-blue);
+}
+
+.portfolio .separator-component, .portfolio .separator-component .separator-content {
+    color: var(--brand-blue);
+}
+
+.ms-text-brand-blue {
+    color: var(--brand-blue);
+}
+
+.custom-textarea {
+    height: 140px;
+}
+
+.btn.bg-green:hover {
+    background-color: #3a546d;
+}
+
+
+/* icons footer circular container */
+.social-icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%; 
+    border: 1px solid white;
+    background-color: transparent; /* Set a background color for the circle */
+    text-align: center;
+    line-height: 50px; /* vertically center the icon */
+    font-size: 24px; /* font size for the icon */
+    color: white; /* color for the icon */
+}
